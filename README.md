@@ -15,6 +15,7 @@ Página web responsiva desenvolvida com foco em apresentar serviços ou produtos
 - ✅ Design adaptado para desktop, tablet e mobile
 - ✅ Fácil personalização de textos e imagens
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🌐 Landing Page
 
